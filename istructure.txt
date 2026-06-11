@@ -1,0 +1,20 @@
+club-management-system/
+│
+├── frontend/
+│   ├── index.html
+│   ├── login.html
+│   ├── register.html
+│   ├── clubs.html
+│   ├── dashboard.html
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+│
+├── backend/
+│   ├── server.js
+│   ├── routes/
+│   ├── models/
+│   └── controllers/
+│
+└── README.md
